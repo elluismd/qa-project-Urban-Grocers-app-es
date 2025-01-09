@@ -1,6 +1,6 @@
 ## Proyecto Urban Grocers 
 
-José Luis Meza Diyarza/Protecto No.7, grupo 17
+José Luis Meza Diyarza/Proyecto No.7, grupo 17
 
 1. Abrir el proecto "qa-project-Urban-Grocers-app-es" en PyCharm.
 2. Asegurarse que los paquetes "request" y "pytest" estén descargados y actualizados.
