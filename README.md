@@ -22,4 +22,5 @@ Lista de comprobación de pruebas.
 6. Es posible incluir espacios: kit_body = { "name": " A Aaa " } Código de respuesta: 201 El campo "name" del cuerpo de la respuesta coincide con el campo "name" del cuerpo de la solicitud
 7. Los números son válidos: kit_body = { "name": "456" } Código de respuesta: 201 El campo "name" del cuerpo de la respuesta coincide con el campo "name" del cuerpo de la solicitud 
 8. El parámetro no se incluye en la solicitud: kit_body = { } Código de respuesta: 400 
-9. Se proporcionó un parámetro con un tipo incorrecto (número): kit_body = { "name": 456 } Código de respuesta: 400
+9. Se proporcionó un parámetro con un tipo incorrecto (número): kit_body = { "name": 456 } Código de respuesta: 400 
+
