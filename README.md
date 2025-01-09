@@ -24,3 +24,5 @@ Lista de comprobación de pruebas.
 8. El parámetro no se incluye en la solicitud: kit_body = { } Código de respuesta: 400 
 9. Se proporcionó un parámetro con un tipo incorrecto (número): kit_body = { "name": 456 } Código de respuesta: 400 
 
+
+<
