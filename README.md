@@ -24,5 +24,12 @@ Lista de comprobación de pruebas.
 8. El parámetro no se incluye en la solicitud: kit_body = { } Código de respuesta: 400 
 9. Se proporcionó un parámetro con un tipo incorrecto (número): kit_body = { "name": 456 } Código de respuesta: 400 
 
-
-<
+1. Instalar lo siguiente:
+Python 3.13
+pip3
+request
+pytest
+2. Pruebas. 
+post_new_client_kit
+authtoken_new_kit
+get_kit_body.
